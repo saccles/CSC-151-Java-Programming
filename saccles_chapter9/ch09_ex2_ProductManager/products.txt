@@ -1,0 +1,7 @@
+java::Murach's Java Programming::57.5::9781943872879::joel murach::true
+jsp::Murach's Java Servlets and JSP::57.5::9781890774783::joel murach::true
+mysql::Murach's MySQL::54.5::9781943873104::joel murach::true
+orac::Murach's Oracle and PL/SQL::54.5::9781890774806::joel murach::true
+andr::Murach's Android Programming::57.5::9781890774936::joel murach::true
+html::Murach's HTML and CSS::54.5::9781943872862::joel murach::true
+jscr::Murach's JavaScript and jQuery::54.5::9781943872626::joel murach::true
